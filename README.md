@@ -1,2 +1,2 @@
 # algoritmos
-Algoritmos da pós graduação da PUCRS
+Algoritmos e POO da pós graduação da PUCRS
